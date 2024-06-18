@@ -43,7 +43,7 @@ jobs:
           submodules: recursive
       - name: Build with Hugo
         run: hugo
-      - if: github.ref == 'refs/heads/master'
+      - #if: github.ref == 'refs/heads/master'
         name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
