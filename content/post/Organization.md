@@ -6,7 +6,7 @@ excerpt: "Call for papers"
 description: "The call for papers is out"
 date: 2024-06-16
 author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "/img/bg-washington.jpg"
+image: "img/bg-washington.jpg"
 published: true
 URL: "/organization/"
 ---
@@ -21,7 +21,7 @@ Reggio Emilia
 
 ### Program Committee
 
-* Ginaluca Aguzzi, University of Bologna, Italy
+* Gianluca Aguzzi, University of Bologna, Italy
 * Stefano Mariani, University of Modena and Reggio Emilia, Italy
 * ...
 

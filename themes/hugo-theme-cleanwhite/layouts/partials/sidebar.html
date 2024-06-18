@@ -12,11 +12,13 @@
     <section class="visible-md visible-lg">
 	<!--<hr><h5><a href="{{ "/about" | relLangURL }}">ABOUT ME</a></h5>-->
         <div class="short-about">
-            {{ with .Site.Params.sidebar_avatar }}
-            <a href="{{ "/about" | relLangURL }}">
+            {{with .Site.Params.sidebar_url}}
+            <a href="{{ . | relLangURL }}">
+            {{end}}
+                {{ with .Site.Params.sidebar_avatar }}
                <img src="{{ . | relURL }}" alt="avatar" style="cursor: pointer" />
+               {{ end }}
             </a>
-            {{ end }}
             {{ with .Site.Params.sidebar_about_description }}
                 <p>{{ . }}</p>
             {{ end }}

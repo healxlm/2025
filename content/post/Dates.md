@@ -6,14 +6,12 @@ excerpt: "Dates"
 description: "The call for papers is out"
 date: 2024-06-16
 author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "/img/bg-washington.jpg"
+image: "img/bg-washington.jpg"
 published: true
 URL: "/dates/"
 ---
 
 # Dates
-
-### **DEADLINE EXTENSION!**
 
 * Paper submission deadline: November 17th, 2024
 * Paper notification: January 8th, 2025

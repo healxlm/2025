@@ -1,11 +1,12 @@
 ---
 showonlyimage: true
 title: "Accepted Papers"
+subtitle: "The list of accepted papers will be available here!"
 excerpt: "Accepted Papers"
 description: "The list of accepted papers will be available here!"
-date: 2022-06-16
-author: "Lukas Esterle, Sara Montagna, and Danilo Pianini"
-image: "/img/Biarritz_Panorama.jpg"
+date: 2024-06-16
+author: "Sara Montagna, Marco Picone, Samuele Burattini"
+image: "img/bg-washington.jpg"
 published: true
 URL: "/accepted/"
 ---

@@ -1,11 +1,12 @@
 ---
 showonlyimage: true
 title: "Program"
+subtitle: "Tentative Program for the Workshop"
 excerpt: "Program"
 description: "The program will be available here!"
 date: 2024-06-16
 author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "/img/bg-washington.jpg"
+image: "img/bg-washington.jpg"
 published: true
 URL: "/program/"
 ---
@@ -14,10 +15,10 @@ URL: "/program/"
 
 Program is not out yet!
 
-<!-- ## Monday March 11th, 2024
+<!-- ## Monday March 11th, 2025
 
 - **8:00 - 8:30**: Registration
-- **8:45 - 9:00**: Welcome to MADTECC
+- **8:45 - 9:00**: Welcome to DIGITA
 - **9:00 - 10:00** Session 1
     - **9:00**: *Development and Validation of a Proximity-based Wearable Computing Testbed for CoWS*; Qimeng Li, Fabrizio Mangione, Francesco Porreca, Raffaele Gravina and Giancarlo Fortino
     - **9.30** *Towards Operator Digital Twins in Industry 5.0: Design Strategies & Experimental Evaluation*; Marco Picone, Riccardo Morandi, Valeria Villani, Marcello Pietri and Luca Bedogni

@@ -19,7 +19,7 @@ home = ["HTML", "RSS", "Algolia"]
   keyword = "Digital Twin, Application, Pervasive Computing"
   slogan = "Digital Twins Ecosystems and Applications"
 
-  image_404 = "img/favicon.jpg
+  #image_404 = "img/favicon.jpg"
   title_404 = "Nothing to see here :("
   omit_categories = true
   showtoc = false
@@ -38,6 +38,7 @@ home = ["HTML", "RSS", "Algolia"]
   # Sidebar settings
   sidebar_about_description = "IEEE PerCom 2025 workshop, Washington DC (USA), March 17 – 21, 2025, "
   sidebar_avatar = "img/percom.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_url = "/2025/about"
 
   featured_tags = false 
   featured_condition_size = 1 
@@ -75,7 +76,7 @@ home = ["HTML", "RSS", "Algolia"]
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/madtecc"
+  github         = "https://github.com/digita"
   #wechat         = "your wechat qr code image"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
@@ -106,22 +107,22 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "Call For Papers"
-  href =  "/cfp/"
+  href =  "/2025/cfp/"
   [[params.addtional_menus]]
   title =  "Organization"
-  href =  "/organization/"
+  href =  "/2025/organization/"
  [[params.addtional_menus]]
   title =  "Dates"
-  href =  "/dates/"
+  href =  "/2025/dates/"
   [[params.addtional_menus]]
   title =  "Program"
-  href =  "/program/"
+  href =  "/2025/program/"
   [[params.addtional_menus]]
   title =  "Accepted papers"
-  href =  "/accepted/"
+  href =  "/2025/accepted/"
   [[params.addtional_menus]]
   title =  "Percom 2025"
-  href =  "/about/"
+  href =  "/2025/about/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
