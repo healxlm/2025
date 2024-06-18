@@ -8,7 +8,7 @@ date: 2024-06-16
 author: "Sara Montagna, Marco Picone, Samuele Burattini"
 image: "img/bg-washington.jpg"
 published: true
-URL: "/program/"
+URL: "/program"
 ---
 
 # Program

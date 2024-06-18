@@ -8,7 +8,7 @@ date: 2024-06-13
 author: "Sara Montagna, Marco Picone, Samuele Burattini"
 image: "img/bg-washington.jpg"
 published: true
-URL: "/cfp/"
+URL: "/cfp"
 ---
 
 # Call for Papers
