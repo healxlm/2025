@@ -22,7 +22,11 @@ Reggio Emilia
 ### Program Committee
 
 * Gianluca Aguzzi, University of Bologna, Italy
+* Chiara Contoli, University of Urbino Carlo Bo, Italy
+* Angelo Croatti, ASL Romagna, Italy
+* Lukas Esterle, Aarhus University, Denmark
 * Stefano Mariani, University of Modena and Reggio Emilia, Italy
 * ...
+
 
 
