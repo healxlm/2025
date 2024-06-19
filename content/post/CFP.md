@@ -14,8 +14,8 @@ URL: "/cfp"
 # Call for Papers
 The “Digital Twin Ecosystems & Applications” (DIGITA) workshop aims to provide a platform for sharing
 knowledge and experiences in the field of Digital Twin Ecosystems and their practical applications. This workshop
-seeks to explore the latest trends, challenges, and opportunities in the engineering and application of Digital Twin
-Ecosystems. Methodologies and tools for design and development, enabling technologies, and innovative use cases
+seeks to explore the latest trends, challenges, and opportunities in the engineering and application of pervasive systems adoptiong the Digital Twin
+Ecosystems approach. Methodologies and tools for design and development, enabling technologies, and innovative use cases
 will be presented and discussed. Additionally, the workshop will offer an opportunity for researchers, practitioners,
 and industry experts to exchange ideas, collaborate on projects, and foster advancements in the rapidly evolving
 field of DT.
