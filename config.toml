@@ -13,7 +13,7 @@ hasCJKLanguage = false
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/pexels-pixabay-208584.jpg"
+  header_image = "img/bg-washington.jpg"
   SEOTitle = "DIGITA 25"
   description = "Digital Twins Ecosystems and Applications"
   keyword = "Digital Twin, Application, Pervasive Computing"

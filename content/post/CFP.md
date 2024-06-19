@@ -23,6 +23,7 @@ field of DT.
 Topics of interest include but are not limited to:
 
 * Digital Twin modelling 
+* Engineering Pervasive Computing appplications with Digital Twins
 * Simulation techniques for Digital Twins
 * Artificial Intelligence and Digital Twins
 * Integration of IoT, AI, Big Data Analytics and Simulation in Digital Twin Ecosystems
@@ -32,6 +33,7 @@ Topics of interest include but are not limited to:
 * Security, privacy, and ethical considerations in Digital Twin Ecosystems
 * Standards, interoperability, and scalability of Digital Twin Ecosystems
 * Coordination and Communication in Digital Twins Ecosystems
+* Communication protocols in Digital Twins Ecosystems
 
 
 
