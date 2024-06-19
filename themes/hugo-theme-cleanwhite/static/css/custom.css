@@ -2710,3 +2710,6 @@ li.pingback:first-child {
   }
 }
 
+.intro-header {
+  text-shadow: 5px 4px 12px black;
+}

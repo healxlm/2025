@@ -12,11 +12,13 @@ URL: "/cfp"
 ---
 
 # Call for Papers
-The “Digital Twin Ecosystems & Applications” (DIGITA) workshop aims to provide a platform for sharing
+The **Digital Twin Ecosystems & Applications (DIGITA)** workshop aims to provide a platform for sharing
 knowledge and experiences in the field of Digital Twin Ecosystems and their practical applications. This workshop
-seeks to explore the latest trends, challenges, and opportunities in the engineering and application of pervasive systems adoptiong the Digital Twin
-Ecosystems approach. Methodologies and tools for design and development, enabling technologies, and innovative use cases
-will be presented and discussed. Additionally, the workshop will offer an opportunity for researchers, practitioners,
+seeks to explore the latest trends, challenges, and opportunities in the engineering and application of pervasive systems adopting the Digital Twin
+Ecosystems approach.
+Methodologies and tools for design and development, enabling technologies, and innovative use cases
+will be presented and discussed.
+Additionally, the workshop will offer an opportunity for researchers, practitioners,
 and industry experts to exchange ideas, collaborate on projects, and foster advancements in the rapidly evolving
 field of DT.
 
@@ -40,12 +42,15 @@ Topics of interest include but are not limited to:
 # Submission instructions
 
 Authors are invited to submit full papers that are unpublished and not under review elsewhere. 
+All submissions will undergo a peer-review process by Program Commitee members in a single blind fashion.
+
+All accepted papers will be published as part of the PerCom satellite events proceedings. Proceedings will be published by the IEEE and available online through IEEE Digital Library. 
+
+**Important**: each accepted paper requires a full PerCom registration and at least one author attending the workshop to present it (no registration is available for workshops only)
 
 ### Paper format
 
 * Workshop papers are to be no more than 6 pages (overall, i.e. including references)
 * FORMAT: [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), 10 pt, 2-column format (same template as the main conference)
-* All submissions will undergo a peer-review process by Technical Commitee members
-* All accepted papers will be published as part of the PerCom satellite events proceedings. Proceedings will be published by the IEEE and available online through IEEE Digital Library 
-* Papers can be submitted via EDAS at [link](www.example.com)
-* Each accepted workshop paper requires a full PerCom registration (no registration is available for workshops only)
+* Papers can be submitted via EDAS (*the link for the submission will be announced shortly*)
+

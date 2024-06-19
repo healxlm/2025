@@ -1,7 +1,7 @@
 ---
 showonlyimage: true
 title: "Accepted Papers"
-subtitle: "The list of accepted papers will be available here!"
+subtitle: "Check this year's accepted papers!"
 excerpt: "Accepted Papers"
 description: "The list of accepted papers will be available here!"
 date: 2024-06-16

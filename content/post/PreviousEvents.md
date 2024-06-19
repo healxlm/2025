@@ -1,7 +1,7 @@
 ---
 showonlyimage: true
 title: "Previous Events"
-subtitle: ""
+subtitle: "Digital Twins at PerCom"
 excerpt: "Previous Events"
 description: ""
 date: 2024-06-16

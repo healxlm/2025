@@ -13,7 +13,8 @@ URL: "/program"
 
 # Program
 
-Program is not out yet!
+Updates on the workshop program will be posted here.
+
 
 <!-- ## Monday March 11th, 2025
 

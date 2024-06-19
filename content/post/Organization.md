@@ -12,7 +12,7 @@ URL: "/organization"
 ---
 # Committees
 
-### Organising Committee
+### Organizing Committee
 
 * [Sara Montagna](https://www.uniurb.it/persone/sara-montagna), Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy
 * [Marco Picone](https://www.marcopicone.net/), Department of Sciences and Methods for Engineering (DISMI) - University of Modena and
