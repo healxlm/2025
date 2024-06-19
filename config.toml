@@ -121,6 +121,9 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "Accepted papers"
   href =  "/2025/accepted/"
   [[params.addtional_menus]]
+  title =  "Previous Events"
+  href =  "/2025/previous/"
+  [[params.addtional_menus]]
   title =  "Percom 2025"
   href =  "/2025/about/"
 
