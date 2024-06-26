@@ -28,6 +28,7 @@ Reggio Emilia
 * Stefano Mariani, University of Modena and Reggio Emilia, Italy
 * Samy El-Tawab, James Madison University, Harrisonburg, VA, USA
 * Torben Weis, University Duisburg-Essen, Germany
+* Felix Theusch, German Research Center for AI (DFKI), Germany
 * ...
 
 
