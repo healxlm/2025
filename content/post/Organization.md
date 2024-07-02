@@ -29,6 +29,7 @@ Reggio Emilia
 * Samy El-Tawab, James Madison University, Harrisonburg, VA, USA
 * Torben Weis, University Duisburg-Essen, Germany
 * Felix Theusch, German Research Center for AI (DFKI), Germany
+* Rem Collier, University College Dublin, Dublin, Ireland
 * ...
 
 
