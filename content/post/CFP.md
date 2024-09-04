@@ -52,5 +52,5 @@ All accepted papers will be published as part of the PerCom satellite events pro
 
 * Workshop papers are to be no more than 6 pages (overall, i.e. including references)
 * FORMAT: [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), 10 pt, 2-column format (same template as the main conference)
-* Papers can be submitted via EasyChair at the following link [submission link](https://easychair.org/conferences/submission_new?a=33386521#%7Bfr:NiiHmvH0u4GQ%7D)
+* Papers can be submitted via EasyChair at the following link [submission link](https://easychair.org/my/conference?conf=percom2025). Once in, please select "Workshop on Digital Twins Ecosystems and Applications" before filling your paper's data.
 
