@@ -1,4 +1,4 @@
-baseurl = "https://digita.github.io/2025/"
+baseurl = "https://digita-percom.github.io/2025/"
 title = "DIGITA 25"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
