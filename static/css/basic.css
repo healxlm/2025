@@ -9,18 +9,19 @@
     background-color: #8398db33;
 }
 
-.twinkle {
-    display: flex;
-    align-items: center;
-    width: 100%;
+#twinkle {
+    background-color: yellow;
+    display: flex !important;
+    align-items: center !important;
+    width: 100% !important;
 }
 
-.twinkle>img {
-    flex-grow: 1;
-    width: 50%;
-    margin-right: 20px;
+#twinkle>img {
+    flex-grow: 1 !important;
+    width:100% !important;
+    margin-right: 20px !important;
 }
 
-.twinkle>span {
-    flex-grow: 1;
+#twinkle>span {
+    flex-grow: 1 !important;
 }
