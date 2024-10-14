@@ -22,13 +22,9 @@ Reggio Emilia
 ### Program Committee
 
 * Gianluca Aguzzi, University of Bologna, Italy
-* Chiara Contoli, University of Urbino Carlo Bo, Italy
 * Angelo Croatti, ASL Romagna, Italy
 * Lukas Esterle, Aarhus University, Denmark
 * Stefano Mariani, University of Modena and Reggio Emilia, Italy
-* Samy El-Tawab, James Madison University, Harrisonburg, VA, USA
-* Torben Weis, University Duisburg-Essen, Germany
-* Felix Theusch, German Research Center for AI (DFKI), Germany
 * Rem Collier, University College Dublin, Dublin, Ireland
 * ...
 
