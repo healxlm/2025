@@ -22,10 +22,12 @@ Reggio Emilia
 ### Program Committee
 
 * Gianluca Aguzzi, University of Bologna, Italy
+* Rem Collier, University College Dublin, Dublin, Ireland
 * Angelo Croatti, ASL Romagna, Italy
 * Lukas Esterle, Aarhus University, Denmark
+* Mirgita Frasheri, Aarhus University, Denmark
 * Stefano Mariani, University of Modena and Reggio Emilia, Italy
-* Rem Collier, University College Dublin, Dublin, Ireland
+* Alessandro Ricci, University of Bologna, Italy
 * ...
 
 
