@@ -17,7 +17,7 @@
 
 #twinkle>img {
     flex-grow: 1 !important;
-    width:100% !important;
+    max-width:50% !important;
     margin-right: 20px !important;
 }
 
