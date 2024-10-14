@@ -8,3 +8,19 @@
     margin:20px 0px; 
     background-color: #8398db33;
 }
+
+.twinkle {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.twinkle>img {
+    flex-grow: 1;
+    width: 50%;
+    margin-right: 20px;
+}
+
+.twinkle>span {
+    flex-grow: 1;
+}
