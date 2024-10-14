@@ -1,4 +1,4 @@
-baseurl = "https://digita.github.io/2025/"
+baseurl = "https://digita-percom.github.io/2025/"
 title = "DIGITA 25"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -6,7 +6,7 @@ languageCode = "en-us"
 disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = false
-paginate = 500 #frontpage pagination
+pagination.pagersize = 500 #frontpage pagination
 hasCJKLanguage = false
 
 [outputs]
@@ -64,6 +64,7 @@ home = ["HTML", "RSS", "Algolia"]
   about_me = true
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
+  custom_css = ["css/basic.css"]
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
@@ -144,3 +145,8 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+
