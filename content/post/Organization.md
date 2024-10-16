@@ -22,14 +22,17 @@ Reggio Emilia
 ### Program Committee
 
 * Gianluca Aguzzi, University of Bologna, Italy
-* Claudia Campolo, University Mediterranea of Reggio Calabria, Italy
+* Claudia Campolo, Mediterranea University of Reggio Calabria, Italy
 * Rem Collier, University College Dublin, Dublin, Ireland
 * Angelo Croatti, ASL Romagna, Italy
+* Samy El-Tawab, James Madison University, Harrisonburg, VA, USA
 * Lukas Esterle, Aarhus University, Denmark
 * Mirgita Frasheri, Aarhus University, Denmark
 * Stefano Mariani, University of Modena and Reggio Emilia, Italy
-* Alessandro Ricci, University of Bologna, Italy
 * Matteo Martinelli, University of Modena and Reggio Emilia, Italy
+* Bruno Pizzimenti, Mediterranea University of Reggio Calabria, Italy
+* Alessandro Ricci, University of Bologna, Italy
+* Felix Theusch, German Research Center for AI (DFKI), Germany
 * ...
 
 
