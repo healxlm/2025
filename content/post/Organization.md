@@ -29,6 +29,7 @@ Reggio Emilia
 * Mirgita Frasheri, Aarhus University, Denmark
 * Stefano Mariani, University of Modena and Reggio Emilia, Italy
 * Alessandro Ricci, University of Bologna, Italy
+- Matteo Martinelli, University of Modena and Reggio Emilia, Italy
 * ...
 
 
