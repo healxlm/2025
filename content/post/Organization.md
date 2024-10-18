@@ -33,7 +33,6 @@ Reggio Emilia
 * Bruno Pizzimenti, Mediterranea University of Reggio Calabria, Italy
 * Alessandro Ricci, University of Bologna, Italy
 * Felix Theusch, German Research Center for AI (DFKI), Germany
-* ...
-
+* Torben Weis, University Duisburg-Essen, Germany
 
 
