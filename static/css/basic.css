@@ -4,6 +4,15 @@
 
 .newsbox{
     text-align:center; 
+}
+
+.yellow {
+    margin:20px 0px; 
+    background-color: lightgoldenrodyellow;
+    border:4px solid #e2c20c; 
+}
+
+.blue {
     border:4px solid #8398db; 
     margin:20px 0px; 
     background-color: #8398db33;

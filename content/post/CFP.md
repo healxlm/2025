@@ -46,8 +46,9 @@ All submissions will undergo a peer-review process by Program Commitee members i
 
 All accepted papers will be published as part of the PerCom satellite events proceedings. Proceedings will be published by the IEEE and available online through IEEE Digital Library. 
 
-**Submission deadline: November 17th 2024**
+**Submission deadline: ~~November 17th 2024~~ <span class="red">December 1st, 2024</span>**
 <!--{.red}-->
+<div class="newsbox yellow"> To facilitate the workshop organization and the review process, we invite contributors to submit their abstract by <div><b>November 24th, 2024</b></div> </div>
 
 **Important**: each accepted paper requires a full PerCom registration and at least one author attending the workshop to present it (no registration is available for workshops only)
 
