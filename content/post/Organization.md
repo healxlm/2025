@@ -23,6 +23,7 @@ Reggio Emilia
 
 * Gianluca Aguzzi, University of Bologna, Italy
 * Claudia Campolo, Mediterranea University of Reggio Calabria, Italy
+* Giovanni Ciatto, University of Bologna, Italy
 * Rem Collier, University College Dublin, Dublin, Ireland
 * Angelo Croatti, ASL Romagna, Italy
 * Samy El-Tawab, James Madison University, Harrisonburg, VA, USA
@@ -33,6 +34,7 @@ Reggio Emilia
 * Bruno Pizzimenti, Mediterranea University of Reggio Calabria, Italy
 * Alessandro Ricci, University of Bologna, Italy
 * Felix Theusch, German Research Center for AI (DFKI), Germany
+* Antonio Virdis, University of Pisa, Italy
 * Torben Weis, University Duisburg-Essen, Germany
 
 
