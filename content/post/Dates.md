@@ -15,7 +15,9 @@ URL: "/dates"
 * Paper submission deadline: 
 ~~November 17th, 2024~~ <span class="red">**December 1st, 2024**</span>
 
-* Paper notification: January 8th, 2025
+* Paper notification: 
+~~January 8th, 2025~~ <span class="red">**January 10, 2025**</span>
+
 * Camera Ready Deadline:  February 2nd, 2025
 * Workshop: *to be announced* (17-21 March, 2025)
 
