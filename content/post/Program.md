@@ -7,14 +7,14 @@ description: "The program will be available here!"
 date: 2024-06-16
 author: "Sara Montagna, Marco Picone, Samuele Burattini"
 image: "img/bg-washington.jpg"
-published: true
 URL: "/program"
 ---
 
 # Program
 
-Updates on the workshop program will be posted here.
+The workshop will be a full day workshop on the **21 March 2025**
 
+Further updates will follow...
 
 <!-- ## Monday March 11th, 2025
 
