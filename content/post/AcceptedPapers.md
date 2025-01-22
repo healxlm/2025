@@ -40,3 +40,4 @@ table th:nth-of-type(4) {
 | Fabrizio Baiardi, Salvatore Ruggieri and Vincenzo Sammartino | *AI-enabled Cybersecurity using Synthetic Data* |
 | Mirgita Frasheri, Prasad Talasila, Peter Gorm Larsen and Lukas Esterle | *Multi-fidelity digital twins for dynamic adaption and efficient distributed simulation* |
 | Francesco Franco, Lorenzo Lamazzi and Luca Bedogni | *A Multi-Layer architecture for Human Digital Twin* |
+| Piotr Hajder, Mateusz Mojżeszko, Filip Hallo, Lucyna Hajder, Krzysztof Regulski, Krzysztof Banaś, Monika Pernach, Danuta Szeliga, Krzysztof Bzowski, Kazimierz Michalik, Adam Mrozek, Łukasz Sztangret, Marek Wilkus, Tomasz Jażdżewski, Wojciech Jędrysik, Rafał Nadolski, Andrzej Opaliński and Łukasz Rauch | *Event-Driven and Scalable Digital Twin System for Real-Time Non-Destructive Testing in Industrial Computational Systems* |
