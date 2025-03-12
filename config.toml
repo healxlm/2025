@@ -1,5 +1,5 @@
-baseurl = "https://digita-percom.github.io/2025/"
-title = "DIGITA 25"
+baseurl = "https://heal-xlm-workshop.github.io/2025/"
+title = "HEALxLM 25"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -13,11 +13,11 @@ hasCJKLanguage = false
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/bg-washington.jpg"
-  SEOTitle = "DIGITA 25"
-  description = "Digital Twins Ecosystems and Applications"
-  keyword = "Digital Twin, Application, Pervasive Computing"
-  slogan = "Digital Twins Ecosystems and Applications"
+  header_image = "img/pavia.jpg"
+  SEOTitle = "HEALxLM 25"
+  description = "Healthcare Empowerment and Advancement Leveraging xLM"
+  keyword = "Healthcare, NLP, Large Language Models, Small Language Models"
+  slogan = "Healthcare Empowerment and Advancement Leveraging xLM"
 
   #image_404 = "img/favicon.jpg"
   title_404 = "Nothing to see here :("
@@ -121,9 +121,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "Accepted papers"
   href =  "/2025/accepted/"
-  [[params.addtional_menus]]
-  title =  "Previous Events"
-  href =  "/2025/previous/"
+ # [[params.addtional_menus]]
+ # title =  "Previous Events"
+ # href =  "/2025/previous/"
   
  # [[params.addtional_menus]]
  # title =  "Percom 2025"

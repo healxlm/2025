@@ -1,25 +1,24 @@
 ---
 showonlyimage: true
 title: "Organization"
-subtitle: "The DIGITA 2025 Organization Team"
+subtitle: "The HEALxLM 2025 Organization Team"
 excerpt: "Call for papers"
 description: "The call for papers is out"
 date: 2024-06-16
-author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "img/bg-washington.jpg"
+author: "Gianluca Aguzzi, Sara Montagna, Mauro Dragoni"
 URL: "/organization"
 ---
 # Committees
 
 ### Organizing Committee
-
+* [Gianluca Aguzzi](https://www.unibo.it/sitoweb/gianluca.aguzzi/en), Department of Computer Science and Engineering - Alma Mater Studiorum University of Bologna, Italy
 * [Sara Montagna](https://www.uniurb.it/persone/sara-montagna), Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy
-* [Marco Picone](https://www.marcopicone.net/), Department of Sciences and Methods for Engineering (DISMI) - University of Modena and
-Reggio Emilia
-* [Samuele Burattini](https://www.unibo.it/sitoweb/samuele.burattini/en), Department of Computer Science and Engineering - Alma Mater Studiorum University of Bologna, Italy
+* [Mauro Dragoni](: https://www.linkedin.com/in/maurodragoni/), TBD
+
 
 ### Program Committee
-
+TBD
+<!---
 * Gianluca Aguzzi, University of Bologna, Italy
 * Claudia Campolo, Mediterranea University of Reggio Calabria, Italy
 * Giovanni Ciatto, University of Bologna, Italy
@@ -35,5 +34,5 @@ Reggio Emilia
 * Felix Theusch, German Research Center for AI (DFKI), Germany
 * Antonio Virdis, University of Pisa, Italy
 * Torben Weis, University Duisburg-Essen, Germany
-
+-->
 

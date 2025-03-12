@@ -5,13 +5,12 @@ subtitle: "Tentative Program for the Workshop"
 excerpt: "Program"
 description: "The program will be available here!"
 date: 2024-06-16
-author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "img/bg-washington.jpg"
+author: "Gianluca Aguzzi, Sara Montagna, Mauro Dragoni"
 URL: "/program"
 ---
 
 # Program
-
+<!--
 The workshop will be a full day workshop on the **21st of March 2025**
 <style>
     table {
@@ -79,7 +78,10 @@ The workshop will be a full day workshop on the **21st of March 2025**
 | **15:00-15:30**| Coffee Break                                                                                                                                                                                                |
 | **15:00-15:20**| *Event-Driven and Scalable Digital Twin System for Real-Time Non-Destructive Testing in Industrial Computational Systems* Piotr Hajder, Mateusz Mojżeszko, Filip Hallo, et al.                               |
 | **15:20-16:00**| **Closing Session** *Chair:* Sara Montagna, Samuele Burattini                                                                                                                                               |
-
+-->
+TBD
+## Keynote
+<!--
 ## Keynote: Digital Twins for Autonomous and Pervasive Computing
 
 ### Speaker: Lukas Esterler
@@ -108,6 +110,6 @@ This brings challenges not only due to how to update them safely but also when t
 However, before updating models and bringing them in operation, these models need to be tested and evaluated thoroughly in order to avoid failures during operation.
 I will discuss how to utilise DTs to explore problems by performing fault injection on DT models. Finally, as modern computing systems are not operating in isolation, I will also present the potential of DTs in collaborative systems and utilising them for collectives.
 I will conclude this talk with in an outlook into future research and specifically the planned work in the DT-CORE project.
-
+-->
 
 

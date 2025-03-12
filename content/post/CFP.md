@@ -5,48 +5,59 @@ subtitle: "Contribute to DIGITA 2025!"
 excerpt: "Call for Papers"
 description: "The call for papers is out"
 date: 2024-06-13
-author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "img/bg-washington.jpg"
+author: "Gianluca Aguzzi, Sara Montagna, Mauro Dragoni"
 URL: "/cfp"
 ---
 
 # Call for Papers
-The **Digital Twin Ecosystems & Applications (DIGITA)** workshop aims to provide a platform for sharing
-knowledge and experiences in the field of Digital Twin Ecosystems and their practical applications. This workshop
-seeks to explore the latest trends, challenges, and opportunities in the engineering and application of pervasive systems adopting the Digital Twin
-Ecosystems approach.
-Methodologies and tools for design and development, enabling technologies, and innovative use cases
-will be presented and discussed.
-Additionally, the workshop will offer an opportunity for researchers, practitioners,
-and industry experts to exchange ideas, collaborate on projects, and foster advancements in the rapidly evolving
-field of DT.
+Recent advancements in generative AI have paved the way for powerful Language Model techniques to be applied in
+health-related contexts, offering potential benefits for healthcare providers and patients. These models can support
+medical professionals by aiding diagnosis, treatment planning, and process optimisation, offering patients more
+accessible and immediate guidance. However, several challenges must be addressed to ensure safe and effective
+use. Key issues include the accuracy and reliability of medical information, as any misinformation could have serious
+consequences. Additionally, protecting patient privacy and data security is a priority, as sensitive health data must
+be handled according to the reference regulations. Addressing biases in AI-generated responses is another critical
+concern, as ensuring that sensitive topics, such as mental health or end-of-life care, are approached with empathy
+and professionalism. Moreover, for AI models to be truly effective in clinical settings, They must be integrated
+with existing healthcare systems and continuously updated to reflect the latest medical knowledge and guidelines.
+While much discussion surrounds the application of Language models in healthcare, their integration into clinical
+practice is complex and unresolved. The **Healthcare Empowerment and Advancement Leveraging xLM (HEALxLM)**  will, therefore, explore these challenges and potential solutions
+for advancing language models, both small and large (xLM), for applications in healthcare.
 
-Topics of interest include but are not limited to:
+# Topics of interest
 
-* Digital Twin modelling 
-* Engineering Pervasive Computing applications with Digital Twins
-* Simulation techniques for Digital Twins
-* Artificial Intelligence and Digital Twins
-* Integration of IoT, AI, Big Data Analytics and Simulation in Digital Twin Ecosystems
-* Digital Twins and DT Ecosystems Software Engineering methods and frameworks
-* Applications of Digital Twins in Smart Industry, Healthcare Systems, Energy Management, and Smart Cities
-* Case studies and real-world implementations
-* Security, privacy, and ethical considerations in Digital Twin Ecosystems
-* Standards, interoperability, and scalability of Digital Twin Ecosystems
-* Coordination and Communication in Digital Twins Ecosystems
-* Communication protocols in Digital Twins Ecosystems
+The workshop welcomes contributions related to but not limited to the following topics:
+
+- Language Models for Home and Remote care
+    - Chatbot-based and virtual assistant solution for supporting patient self-management
+
+- Multimodality in Healthcare
+    - Integrating text, speech, and image data for comprehensive multi-perspective xLM diagnostic systems
+    - Multimodal data to improve healthcare services based on xLMs
+
+- Clinical Decision Support
+    - Novel xLM-based solutions to assist healthcare professionals
+
+- Trustworthy AI in Healthcare
+    - RAG-based solutions and fine-tuning for improved xLM performances
+
+- Real-world Applications
+    - Real-world applications that exploit xLMs
+    - xLMs Systems for Big Data scenarios
+    - xLMs for a diverse, equitable, and inclusive society
 
 
 
 # Submission instructions
-
+TBD
+<!--
 Authors are invited to submit full papers that are unpublished and not under review elsewhere. 
 All submissions will undergo a peer-review process by Program Commitee members in a single blind fashion.
 
 All accepted papers will be published as part of the PerCom satellite events proceedings. Proceedings will be published by the IEEE and available online through IEEE Digital Library. 
 
 **Submission deadline: ~~November 17th 2024~~ <span class="red">December 1st, 2024</span>**
-<!--{.red}-->
+
 <div class="newsbox yellow"> To facilitate the workshop organization and the review process, we invite contributors to submit their abstract by <div><b>November 24th, 2024</b></div> </div>
 
 **Important**: each accepted paper requires a full PerCom registration and at least one author attending the workshop to present it (no registration is available for workshops only)
@@ -57,3 +68,4 @@ All accepted papers will be published as part of the PerCom satellite events pro
 * FORMAT: [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), 10 pt, 2-column format (same template as the main conference)
 * Papers can be submitted via EasyChair at the following link [submission link](https://easychair.org/my/conference?conf=percom2025). Once in, please select "Workshop on Digital Twins Ecosystems and Applications" before filling your paper's data.
 
+-->

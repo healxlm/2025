@@ -5,8 +5,7 @@ subtitle: "Digital Twins at PerCom"
 excerpt: "Previous Events"
 description: ""
 date: 2024-06-16
-author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "img/bg-washington.jpg"
+author: "Gianluca Aguzzi, Sara Montagna, Mauro Dragoni"
 URL: "/previous"
 ---
 # Previous Events
