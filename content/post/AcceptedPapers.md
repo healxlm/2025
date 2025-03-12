@@ -9,10 +9,10 @@ author: "Gianluca Aguzzi, Sara Montagna, Mauro Dragoni"
 URL: "/accepted"
 ---
 # Accepted Papers
-
+---
 We received a total of 15 submissions to the workshop, out of which we selected 9 for presentation to the workshop.
 We thank all authors and reviewers for their contribution to the DIGITA Workshop.
-
+---
 
 <style>
 table th:first-of-type {
