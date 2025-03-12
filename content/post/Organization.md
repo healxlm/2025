@@ -13,7 +13,7 @@ URL: "/organization"
 ### Organizing Committee
 * [Gianluca Aguzzi](https://www.unibo.it/sitoweb/gianluca.aguzzi/en), Department of Computer Science and Engineering - Alma Mater Studiorum University of Bologna, Italy
 * [Sara Montagna](https://www.uniurb.it/persone/sara-montagna), Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy
-* [Mauro Dragoni](: https://www.linkedin.com/in/maurodragoni/), TBD
+* [Mauro Dragoni]( https://www.linkedin.com/in/maurodragoni/), Fondazione Bruno Kessler (FBK), Italy
 
 
 ### Program Committee

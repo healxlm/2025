@@ -1,7 +1,7 @@
 ---
 showonlyimage: true
 title: "Call for papers"
-subtitle: "Contribute to DIGITA 2025!"
+subtitle: "Contribute to HEALxLM 2025!"
 excerpt: "Call for Papers"
 description: "The call for papers is out"
 date: 2024-06-13
