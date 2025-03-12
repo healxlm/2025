@@ -1,70 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on DIGITA 25</title>
-    <link>https://digita-percom.github.io/2025/post/</link>
-    <description>Recent content in Posts on DIGITA 25</description>
+    <title>Posts on HEALxLM 25</title>
+    <link>https://heal-xlm-workshop.github.io/2025/post/</link>
+    <description>Recent content in Posts on HEALxLM 25</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://digita-percom.github.io/2025/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://heal-xlm-workshop.github.io/2025/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accepted Papers</title>
-      <link>https://digita-percom.github.io/2025/accepted/</link>
+      <link>https://heal-xlm-workshop.github.io/2025/accepted/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2025/accepted/</guid>
+      <guid>https://heal-xlm-workshop.github.io/2025/accepted/</guid>
       <description>Accepted Papers We received a total of 15 submissions to the workshop, out of which we selected 9 for presentation to the workshop. We thank all authors and reviewers for their contribution to the DIGITA Workshop.
 Authors Title Alberto Marfoglia, Christian D&amp;rsquo;Errico, Filippo Nardini, Sabato Mellone and Antonella Carbonaro CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare Gian Marco Paldino, Olivier Caelen, Marouene Oueslati, Tojo Valisoa Johanesa, Marc Ansay and Gianluca Bontempi Integrating Domain Adaptation and Causal Inference in Digital Twins for Plastic Injection Molding Kai Franke and Tobias Koch FIWARE as a Scalable Digital Twin Interface for DT Ecosystems: Benchmark and Limitations Timothé Lacheroy, Abdelhadi Belfadel and Jean-Yves Didier XRTwin4Industry: A Comprehensive Framework for Standardization and Interoperability in XR-Enabled Industrial Digital Twins Piotr Hajder, Mateusz Mojżeszko, Filip Hallo, Lucyna Hajder, Krzysztof Regulski, Krzysztof Banaś, Monika Pernach, Danuta Szeliga, Krzysztof Bzowski, Kazimierz Michalik, Adam Mrozek, Łukasz Sztangret, Marek Wilkus, Tomasz Jażdżewski, Wojciech Jędrysik, Rafał Nadolski, Andrzej Opaliński and Łukasz Rauch Towards an Interoperable Digital Shadow Framework for Continuous Steel Casting using Explainable AI and Kubernetes Fabrizio Baiardi, Salvatore Ruggieri and Vincenzo Sammartino AI-enabled Cybersecurity using Synthetic Data Mirgita Frasheri, Prasad Talasila, Peter Gorm Larsen and Lukas Esterle Multi-fidelity digital twins for dynamic adaption and efficient distributed simulation Francesco Franco, Lorenzo Lamazzi and Luca Bedogni A Multi-Layer architecture for Human Digital Twin Piotr Hajder, Mateusz Mojżeszko, Filip Hallo, Lucyna Hajder, Krzysztof Regulski, Krzysztof Banaś, Monika Pernach, Danuta Szeliga, Krzysztof Bzowski, Kazimierz Michalik, Adam Mrozek, Łukasz Sztangret, Marek Wilkus, Tomasz Jażdżewski, Wojciech Jędrysik, Rafał Nadolski, Andrzej Opaliński and Łukasz Rauch Event-Driven and Scalable Digital Twin System for Real-Time Non-Destructive Testing in Industrial Computational Systems </description>
     </item>
     
     <item>
       <title>Dates</title>
-      <link>https://digita-percom.github.io/2025/dates/</link>
+      <link>https://heal-xlm-workshop.github.io/2025/dates/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2025/dates/</guid>
-      <description>Dates Paper submission deadline: November 17th, 2024 December 1st, 2024
-Paper notification: January 8th, 2025 January 10, 2025
-Camera Ready Deadline: February 2nd, 2025
-Workshop: March 21, 2025
-For your Camera Ready, please refer to the official PerCom instructions</description>
+      <guid>https://heal-xlm-workshop.github.io/2025/dates/</guid>
+      <description>TBD</description>
     </item>
     
     <item>
       <title>Organization</title>
-      <link>https://digita-percom.github.io/2025/organization/</link>
+      <link>https://heal-xlm-workshop.github.io/2025/organization/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2025/organization/</guid>
-      <description>Committees Organizing Committee Sara Montagna, Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy Marco Picone, Department of Sciences and Methods for Engineering (DISMI) - University of Modena and Reggio Emilia Samuele Burattini, Department of Computer Science and Engineering - Alma Mater Studiorum University of Bologna, Italy Program Committee Gianluca Aguzzi, University of Bologna, Italy Claudia Campolo, Mediterranea University of Reggio Calabria, Italy Giovanni Ciatto, University of Bologna, Italy Rem Collier, University College Dublin, Dublin, Ireland Angelo Croatti, ASL Romagna, Italy Samy El-Tawab, James Madison University, Harrisonburg, VA, USA Lukas Esterle, Aarhus University, Denmark Mirgita Frasheri, Aarhus University, Denmark Stefano Mariani, University of Modena and Reggio Emilia, Italy Matteo Martinelli, University of Modena and Reggio Emilia, Italy Bruno Pizzimenti, Mediterranea University of Reggio Calabria, Italy Alessandro Ricci, University of Bologna, Italy Felix Theusch, German Research Center for AI (DFKI), Germany Antonio Virdis, University of Pisa, Italy Torben Weis, University Duisburg-Essen, Germany </description>
+      <guid>https://heal-xlm-workshop.github.io/2025/organization/</guid>
+      <description>Committees Organizing Committee Gianluca Aguzzi, Department of Computer Science and Engineering - Alma Mater Studiorum University of Bologna, Italy Sara Montagna, Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy [Mauro Dragoni](: https://www.linkedin.com/in/maurodragoni/), TBD Program Committee TBD</description>
     </item>
     
     <item>
       <title>Previous Events</title>
-      <link>https://digita-percom.github.io/2025/previous/</link>
+      <link>https://heal-xlm-workshop.github.io/2025/previous/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2025/previous/</guid>
+      <guid>https://heal-xlm-workshop.github.io/2025/previous/</guid>
       <description>Previous Events Despite changing the name, this workshop represents the second edition of the MADTECC (Medical Applications with Digital Twins and Edge-Cloud Continuum) workshop, following its debut at PerCom 2024. This year, we aim to broaden the scope of the topics, keeping the spirit of involving researchers working in practical applications of Digital Twins to complex ecosystems without the constraints on the specific domain of healthcare.</description>
     </item>
     
     <item>
       <title>Program</title>
-      <link>https://digita-percom.github.io/2025/program/</link>
+      <link>https://heal-xlm-workshop.github.io/2025/program/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2025/program/</guid>
-      <description>Program The workshop will be a full day workshop on the 21st of March 2025
-Time Details 8:00-8:30 Registration Session 0 Welcome Chair: Sara Montagna 08:45-09:00 Welcome Message from the Workshop Chairs: Sara Montagna, Samuele Burattini Session 1 Keynote Chair: Samuele Burattini 9:00-10:00 Digital Twins for Autonomous and Pervasive Computing Lukas Esterle 10:00-10:30 Coffee Break Session 2 Digital Twins Applications Chair: Samuele Burattini 10:30-10:50 Towards an Interoperable Digital Shadow Framework for Continuous Steel Casting using Explainable AI and Kubernetes Piotr Hajder, Mateusz Mojżeszko, Filip Hallo, et al.</description>
+      <guid>https://heal-xlm-workshop.github.io/2025/program/</guid>
+      <description>Program TBD
+Keynote </description>
     </item>
     
     <item>
       <title>Call for papers</title>
-      <link>https://digita-percom.github.io/2025/cfp/</link>
+      <link>https://heal-xlm-workshop.github.io/2025/cfp/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://digita-percom.github.io/2025/cfp/</guid>
-      <description>Call for Papers The Digital Twin Ecosystems &amp;amp; Applications (DIGITA) workshop aims to provide a platform for sharing knowledge and experiences in the field of Digital Twin Ecosystems and their practical applications. This workshop seeks to explore the latest trends, challenges, and opportunities in the engineering and application of pervasive systems adopting the Digital Twin Ecosystems approach. Methodologies and tools for design and development, enabling technologies, and innovative use cases will be presented and discussed.</description>
+      <guid>https://heal-xlm-workshop.github.io/2025/cfp/</guid>
+      <description>Call for Papers Recent advancements in generative AI have paved the way for powerful Language Model techniques to be applied in health-related contexts, offering potential benefits for healthcare providers and patients. These models can support medical professionals by aiding diagnosis, treatment planning, and process optimisation, offering patients more accessible and immediate guidance. However, several challenges must be addressed to ensure safe and effective use. Key issues include the accuracy and reliability of medical information, as any misinformation could have serious consequences.</description>
     </item>
     
   </channel>
