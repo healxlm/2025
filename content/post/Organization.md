@@ -17,22 +17,24 @@ URL: "/organization"
 
 
 ### Program Committee
-TBD
-<!---
-* Gianluca Aguzzi, University of Bologna, Italy
-* Claudia Campolo, Mediterranea University of Reggio Calabria, Italy
-* Giovanni Ciatto, University of Bologna, Italy
-* Rem Collier, University College Dublin, Dublin, Ireland
-* Angelo Croatti, ASL Romagna, Italy
-* Samy El-Tawab, James Madison University, Harrisonburg, VA, USA
-* Lukas Esterle, Aarhus University, Denmark
-* Mirgita Frasheri, Aarhus University, Denmark
-* Stefano Mariani, University of Modena and Reggio Emilia, Italy
-* Matteo Martinelli, University of Modena and Reggio Emilia, Italy
-* Bruno Pizzimenti, Mediterranea University of Reggio Calabria, Italy
-* Alessandro Ricci, University of Bologna, Italy
-* Felix Theusch, German Research Center for AI (DFKI), Germany
-* Antonio Virdis, University of Pisa, Italy
-* Torben Weis, University Duisburg-Essen, Germany
--->
-
+* **Alaa Alashi**, Yale University, USA
+* **Patrizio Bellan**, Fondazione Bruno Kessler, Italy
+* **Marco Bombieri**, University of Verona, Italy
+* **Elena Cabrio**, University of Côte d'Azur, France
+* **David Chartash**, Yale University, USA
+* **Philipp Cimiano**, University of Bielefeld, Germany
+* **Thomas Huang**, Yale University, USA
+* **Adam Jatowt**, University of Innsbruck, Austria
+* **Markus Kreuzthaler**, Medical University of Graz, Austria
+* **Amila Kugic**, Medical University of Graz, Austria
+* **Simone Magnolini**, Fondazione Bruno Kessler, Italy
+* **Francesco Osborne**, Open University, UK
+* **Simone Paolo Ponzetto**, University of Mannheim, Germany
+* **Marco Rospocher**, University of Verona, Italy
+* **Conrad Safranek**, Yale University, USA
+* **Leonardo Sanna**, Fondazione Bruno Kessler, Italy
+* **Stefan Schulz**, Medical University of Graz, Austria
+* **Vimig Socrates**, Yale University, USA
+* **R. Andrew Taylor**, Yale University, USA
+* **Serena Villata**, INRIA, France
+* **Donald Wright**, Yale University, USA

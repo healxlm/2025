@@ -49,7 +49,21 @@ The workshop welcomes contributions related to but not limited to the following 
 
 
 # Submission instructions
-TBD
+Authors are invited to submit full papers that are unpublished and not under review elsewhere. 
+All submissions will undergo a peer-review process by Program Commitee members in a single blind fashion.
+
+## Paper format
+
+* Papers can be submitted in two formats:
+    * Short papers: up to 6 pages (including references)
+    * Long papers: up to 10 pages (including references)
+* Format: Papers should be formatted according to Springer’s LNCS format --- see [Springer's Author Instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) for details.
+* Submission platform: *TBD* (submission link will be provided soon)
+
+**Submission deadline: 24 April 2025**
+
+**Important**: Each accepted paper requires a full registration and at least one author attending the workshop to present it.
+
 <!--
 Authors are invited to submit full papers that are unpublished and not under review elsewhere. 
 All submissions will undergo a peer-review process by Program Commitee members in a single blind fashion.

@@ -9,7 +9,43 @@ author: "Gianluca Aguzzi, Sara Montagna, Mauro Dragoni"
 URL: "/dates"
 ---
 
-TBD
+<style>
+.past-date {
+    color: gray;
+    text-decoration: line-through;
+}
+
+.approaching-deadline {
+    color: orange;
+    font-weight: bold;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const deadlines = document.querySelectorAll('.deadline');
+
+    deadlines.forEach(deadline => {
+        const dateStr = deadline.dataset.date;
+        const deadlineDate = new Date(dateStr);
+        const now = new Date();
+        const timeDiff = deadlineDate.getTime() - now.getTime();
+        const daysRemaining = Math.ceil(timeDiff / (1000 * 3600 * 24));
+
+        if (daysRemaining < 0) {
+            deadline.classList.add('past-date');
+        } else if (daysRemaining <= 7) {
+            deadline.classList.add('approaching-deadline');
+        }
+    });
+});
+</script>
+
+# Dates
+* **Paper submission deadline**: <span class="deadline yellow" data-date="2025-04-24">April 24th, 2025</span>
+
+* **Paper notification**: <span class="deadline yellow" data-date="2025-05-15">May 15th, 2025</span>
+
 <!--
 # Dates
 * Paper submission deadline: 
