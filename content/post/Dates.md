@@ -42,9 +42,13 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 # Dates
-* **Paper submission deadline**: <span class="deadline yellow" data-date="2025-04-24">April 24th, 2025</span>
+* **Paper submission deadline**: <span class="deadline yellow" data-date="2025-04-19">April 24th, 2025</span>
 
 * **Paper notification**: <span class="deadline yellow" data-date="2025-05-15">May 15th, 2025</span>
+
+* **Camera ready deadline**: <span class="deadline yellow" data-date="2025-06-06">June 6th, 2025</span>
+
+* **Workshop**: <span class="deadline yellow" data-date="2025-06-20">June 20th, 2025</span>
 
 <!--
 # Dates
