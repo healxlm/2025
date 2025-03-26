@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 * **Camera ready deadline**: <span class="deadline yellow" data-date="2025-06-06">June 6th, 2025</span>
 
-* **Workshop**: <span class="deadline yellow" data-date="2025-06-20">June 20th, 2025</span>
+* **Workshop**: <span class="deadline yellow" data-date="2025-06-20">June 26th, 2025</span>
 
 <!--
 # Dates
