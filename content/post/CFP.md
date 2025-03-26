@@ -58,18 +58,18 @@ All submissions will undergo a peer-review process by Program Commitee members i
     * Short papers: up to 6 pages (including references)
     * Long papers: up to 10 pages (including references)
 * Format: Papers should be formatted according to Springer’s LNCS format --- see [Springer's Author Instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) for details.
-* Submission platform: *TBD* (submission link will be provided soon)
+* Submission platform: Papers can be submitted via EasyChair at the following link [submission link](https://easychair.org/conferences/?conf=healxlm2025) 
 
 **Submission deadline: 24 April 2025**
 
-**Important**: Each accepted paper requires a full registration and at least one author attending the workshop to present it.
+**Important**: Each accepted paper requires the registration and at least one author attending the workshop to present it.
 
-<!--
+
 Authors are invited to submit full papers that are unpublished and not under review elsewhere. 
 All submissions will undergo a peer-review process by Program Commitee members in a single blind fashion.
 
-All accepted papers will be published as part of the PerCom satellite events proceedings. Proceedings will be published by the IEEE and available online through IEEE Digital Library. 
-
+All accepted papers will be published as part of formal proceedings. Currently under evaluation Springer LNAI & CEUR Proceedings.
+<!--
 **Submission deadline: ~~November 17th 2024~~ <span class="red">December 1st, 2024</span>**
 
 <div class="newsbox yellow"> To facilitate the workshop organization and the review process, we invite contributors to submit their abstract by <div><b>November 24th, 2024</b></div> </div>
@@ -80,6 +80,6 @@ All accepted papers will be published as part of the PerCom satellite events pro
 
 * Workshop papers are to be no more than 6 pages (overall, i.e. including references)
 * FORMAT: [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), 10 pt, 2-column format (same template as the main conference)
-* Papers can be submitted via EasyChair at the following link [submission link](https://easychair.org/my/conference?conf=percom2025). Once in, please select "Workshop on Digital Twins Ecosystems and Applications" before filling your paper's data.
+* 
 
 -->
